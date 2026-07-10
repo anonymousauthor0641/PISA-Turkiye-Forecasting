@@ -1,0 +1,25 @@
+PISA Raw Data
+      ↓
+Data Preprocessing
+      ↓
+Missing Value Completion
+      ↓
+Normalization
+      ↓
+VIF Analysis
+      ↓
+Rolling Backtesting
+      ↓
+Naive Baseline
+      ↓
+ARIMA / Prophet / LSTM / GRU
+      ↓
+Multi-Seed Robustness
+      ↓
+Model Comparison
+      ↓
+Progressive Variable Integration
+      ↓
+Forecasts (2025–2031)
+      ↓
+Tables & Figures

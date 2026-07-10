@@ -1,0 +1,31 @@
+CODE FOLDER CONTENTS
+
+01_data_preprocessing.py
+    Missing-value completion and future socioeconomic inputs.
+
+02_vif_analysis.py
+    Variance Inflation Factor analysis.
+
+03_naive_baseline.py
+    Naive Persistence baseline.
+
+04_rolling_backtesting.py
+    Expanding-window rolling backtesting.
+
+05_multiseed_analysis.py
+    Five-seed LSTM/GRU robustness analysis.
+
+06_future_forecasting.py
+    2025, 2028, and 2031 exploratory forecasts.
+
+07_generate_figures.py
+    Historical 2003-2022 + forecast 2025-2031 figures.
+
+08_run_all.py
+    Runs the complete pipeline.
+
+models/
+    ARIMA, Prophet, LSTM, and GRU implementations.
+
+utils/
+    Metrics and reproducibility helpers.

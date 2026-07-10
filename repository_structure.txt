@@ -1,0 +1,40 @@
+PISA_Turkiye_Forecasting_GitHub
+|
+|-- README.md
+|-- LICENSE
+|-- CITATION.cff
+|-- requirements.txt
+|-- run_all.bat
+|-- run_all.sh
+|
+|-- code
+|   |-- data preprocessing
+|   |-- VIF analysis
+|   |-- Naive Persistence baseline
+|   |-- Rolling Backtesting
+|   |-- Multi-Seed Robustness
+|   |-- Future forecasting
+|   |-- Figure generation
+|   |-- ARIMA / Prophet / LSTM / GRU implementations
+|
+|-- dataset
+|   |-- raw dataset
+|   |-- processed dataset
+|   |-- future socioeconomic inputs
+|   |-- data dictionary
+|   |-- missing-value report
+|
+|-- documentation
+|   |-- methodology documentation
+|   |-- reproducibility guide
+|   |-- workflow
+|   |-- variable description
+|
+|-- figures
+|   |-- Figure 5 to Figure 12
+|
+|-- outputs
+    |-- datasets
+    |-- tables
+    |-- figures
+    |-- logs
