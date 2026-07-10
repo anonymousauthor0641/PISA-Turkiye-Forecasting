@@ -7,7 +7,7 @@ authors:
     given-names: "Ayşe Tuğba"
 year: 2026
 license: MIT
-repository-code: "TO_BE_ADDED_AFTER_GITHUB_UPLOAD"
+repository-code: "https://github.com/anonymousauthor0641/PISA-Turkiye-Forecasting"
 abstract: >
   Reproducibility materials for an exploratory comparison of ARIMA, Prophet,
   LSTM, and GRU models applied to Türkiye's national PISA mathematics and
